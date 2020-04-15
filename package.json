@@ -30,7 +30,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://Jeje01.github.io/nomflix",
+  "homepage": "https://blissful-kowalevski-b108e3.netlify.com",
   "browserslist": {
     "production": [
       ">0.2%",
